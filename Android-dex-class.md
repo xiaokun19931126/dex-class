@@ -2,9 +2,9 @@
 
 #### **关键类：DexClassLoader** 
 
-> **关于DexClassLoader的官方解释：(双语注释)**
+> **关于DexClassLoader的官方解释：(双语注释)**  
 
-![]([http://ww3.sinaimg.cn/large/82c8e86egw1fbgq9lvnqkj20dv07wdg1.jpg)
+![](http://ww2.sinaimg.cn/large/82c8e86egw1fbgqttq8t2j20r60dpgnj.jpg)
 
 上述翻译大概如下：
 
@@ -23,7 +23,7 @@ File dexOutputDir = mContext.getDir("dex", 0);//用这个方法可兼容
 
 > **关于构造方法Public Constructors中的官方解释**DexClassLoader ([String](../../../reference/java/lang/String.html) dexPath, [String](../../../reference/java/lang/String.html) optimizedDirectory, [String](../../../reference/java/lang/String.html) libraryPath, [ClassLoader](../../../reference/java/lang/ClassLoader.html) parent)
 
-![img](file:///C:\Users\Administrator\Documents\Jingoal\xiaokun@0728338\Image\JImg-BB973A15-2879-4D09-90CB-0F58471438FF.jpeg)
+![](http://ww4.sinaimg.cn/large/82c8e86egw1fbgqualfmuj20r10emabq.jpg)
 
 创建一个DexClassLoader，用于查找解释和本机代码。 解释类存在于Jar或APK文件中包含的一组DEX文件中。
 
