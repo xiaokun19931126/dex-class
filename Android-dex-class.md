@@ -4,7 +4,7 @@
 
 > **关于DexClassLoader的官方解释：(双语注释)**
 
-![img](file:///C:\Users\Administrator\Documents\Jingoal\xiaokun@0728338\Image\JImg-B78F3852-DF41-4847-81DF-124EFD0EC889.jpeg)
+![]([http://ww3.sinaimg.cn/large/82c8e86egw1fbgq9lvnqkj20dv07wdg1.jpg)
 
 上述翻译大概如下：
 
