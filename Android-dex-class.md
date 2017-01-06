@@ -51,7 +51,7 @@ DexClassLoader cl = new DexClassLoader(file.getAbsolutePath(),
 Class mLoadClass = null;
 
 try {
-    mLoadClass = cl.loadClass("com.example.xiusou_regist.RegisterTool");
+    mLoadClass = cl.loadClass("com.example.xxxxx.xxxxx");
     Method[] methods = mLoadClass.getDeclaredMethods();
 
     for (int i = 0; i < methods.length; i++) {
@@ -61,7 +61,7 @@ try {
     Method init = mLoadClass.getDeclaredMethod("init", Context.class,
             String.class);
     init.setAccessible(true);
-    init.invoke(mContext, new Object[]{mContext, "1234567"});
+    init.invoke(mContext, new Object[]{mContext, xxxxx});
     // 调用方法
 } catch (Exception exception) {
     exception.printStackTrace();
